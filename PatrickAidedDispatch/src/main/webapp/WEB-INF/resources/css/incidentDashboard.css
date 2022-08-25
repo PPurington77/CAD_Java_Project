@@ -1,0 +1,72 @@
+@charset "ISO-8859-1";
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #0E0B16;
+}
+
+#header {
+	border-bottom: 2px solid #E7DFDD;
+	padding-top: 10px;
+
+}
+
+#header ul {
+	display: flex;
+	color: #E7DFDD;
+	justify-content: space-around;
+	align-items: center;
+}
+
+#header li {
+	list-style-type: none;
+	font-size: 1.2rem;
+}
+
+#header a {
+	text-decoration: none;
+	color: #E7DFDD;
+}
+
+#header a:hover {
+	color: #A239CA;
+}
+
+#container {
+	width: 98%;
+	margin: 0 auto;
+}
+
+h3 {
+	color: #A239CA;
+}
+#units {
+	overflow: scroll;
+	height: 250px;;
+}
+
+#unitTable {
+	background-color: #E7DFDD;
+	color: #0E0B16;
+}
+
+#pendingTable{
+	background-color: #E7DFDD;
+	color: #0E0B16;
+}
+
+#pending {
+	overflow: scroll;
+	height: 250px;
+}
+
+.btn {
+	background-color: #A239CA;
+	color: #E7DFDD;
+}
+

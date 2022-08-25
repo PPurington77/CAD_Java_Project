@@ -1,0 +1,47 @@
+@charset "ISO-8859-1";
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #0E0B16;
+}
+
+#container {
+	width: 80%;
+	margin: 20px auto;
+}
+
+#header {
+	display: flex;
+	justify-content: space-between;
+	color: #E7DFDD;
+	align-items: center;
+}
+
+#header a {
+	text-decoration: none;
+	color: #E7DFDD;
+}
+
+#header a:hover {
+	color: #a239ca;
+}
+
+#signal {
+	background-color: #E7DFDD;
+	width: 30%;
+	margin: 20px auto;
+	padding: 10px;
+	font-size: 1.5rem;
+	box-shadow: 0px 0px 30px #a239ca;
+}
+
+#signal input {
+	display: block;
+	margin-bottom: 5px;
+	width: 100%;
+}
