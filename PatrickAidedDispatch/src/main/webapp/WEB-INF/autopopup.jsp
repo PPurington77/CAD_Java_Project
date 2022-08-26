@@ -18,8 +18,10 @@
     <script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
 </head>
 <body>
-   	<h1>*****Warning*****</h1>
-   	<p>You are now entering the administrative portion of this website</p>
-   	<p>If you are not authorized leave now or be penalized under some obscure statute</p>
+	<div id="pop">
+   		<h1>*****Warning*****</h1>
+   		<p>You are now entering the administrative portion of this website</p>
+   		<p>If you are not authorized leave now or be penalized under some obscure statute</p>
+	</div>
 </body>
 </html>
