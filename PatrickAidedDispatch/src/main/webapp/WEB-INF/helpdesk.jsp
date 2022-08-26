@@ -12,7 +12,7 @@
 <head>
 	<meta charset="UTF-8">
     <link rel="stylesheet" href="/webjars/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/css/helpdesk.css"> <!-- change to match your file/naming structure...this is for your style sheet -->
+  	<link rel="stylesheet" href="/css/helpdesk.css"><!-- change to match your file/naming structure...this is for your style sheet -->
     <script src="/webjars/jquery/jquery.min.js"></script>
     <script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
     <!-- Favicon Information below -->
@@ -20,7 +20,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-<title>Patrick Aided Dispatch</title>
+	<title>Patrick Aided Dispatch</title>
 </head>
 <body>
    <div id="header">

@@ -13,14 +13,9 @@
     <meta charset="UTF-8">
     <title>Warning</title>
     <link rel="stylesheet" href="/webjars/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/css/style.css"> <!-- change to match your file/naming structure -->
+    <link rel="stylesheet" href="/css/style.css"><!-- change to match your file/naming structure -->
     <script src="/webjars/jquery/jquery.min.js"></script>
     <script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
-    <style>
-    * {
-    color: white;
-    }
-    </style>
 </head>
 <body>
    	<h1>*****Warning*****</h1>

@@ -20,7 +20,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-<title>Patrick Aided Dispatch</title>
+	<title>Patrick Aided Dispatch</title>
 </head>
 <body>
 	<div id="container">

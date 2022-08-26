@@ -12,7 +12,7 @@
 <head>
 	<meta charset="UTF-8">
     <link rel="stylesheet" href="/webjars/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/css/createIncident.css"> <!-- change to match your file/naming structure...this is for your style sheet -->
+    <link rel="stylesheet" href="/css/createIncident.css"><!-- change to match your file/naming structure...this is for your style sheet -->
     <script src="/webjars/jquery/jquery.min.js"></script>
     <script src="/webjars/bootstrap/js/bootstrap.min.js"></script>
     <!-- Favicon Information below -->
